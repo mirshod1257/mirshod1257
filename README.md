@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mirshod1257
-- 👀 I’m interested in 
+- 👀 I’m interested in python-telegram-bot
 - 🌱 I’m currently learning :
 I want to study the telegram bot
 - 💞️ I’m looking to collaborate on ... I accompany the git hub
